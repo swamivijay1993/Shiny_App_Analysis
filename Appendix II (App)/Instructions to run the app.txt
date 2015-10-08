@@ -1,0 +1,13 @@
+						INSTRUCTIONS 
+---------------------------------------------------------------------------------------------------------
+
+1. Copy the folder 'Appendix II (App)' to your working directory.
+
+2.install and load the package 'shiny' using the following commands in your R console
+	> install.packages("shiny")
+	> library(shiny)
+
+3.Then run the following command in your R console to run the application
+	> shiny::runApp("Appendix II (App)")
+
+4.This will show the app and after you finish working with the app, stop the app from the console.
